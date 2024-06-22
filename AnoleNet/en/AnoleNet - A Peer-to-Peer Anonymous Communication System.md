@@ -77,7 +77,7 @@ In traditional institution-mediated P2P information exchange, in the worst-case 
 
 In AnoleNet-based P2P information exchange, even in the worst-case scenario, an institution can only capture sensitive traffic within the communication network but cannot easily trace the identities of both parties.
 
-![img_5.png](img_5.png
+![img_5.png](img_5.png)
 
 ### References:
 
